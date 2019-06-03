@@ -1,0 +1,3 @@
+获取网络摄像头
+参考：https://zhuanlan.zhihu.com/p/38136322   读取多个(海康)网络摄像头的实时视频流 (使用opencv-python)，解决实时读取延迟问题
+

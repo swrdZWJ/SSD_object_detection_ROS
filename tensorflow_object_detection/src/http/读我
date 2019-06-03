@@ -1,0 +1,5 @@
+最终成功版：http_camera_detection.py   有一些延时，但是问题不大
+
+参考：https://blog.csdn.net/github_38705794/article/details/77776522  Win10+Tensorflow+OpenCV+IPCamera 实时视频物体检测
+
+	https://blog.csdn.net/dearwind153/article/details/52563141   树莓派使用 USB 摄像头做网络监控
